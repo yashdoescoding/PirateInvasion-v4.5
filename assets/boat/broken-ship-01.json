@@ -1,0 +1,34 @@
+{"frames":[
+    { "name": "broken-ship-010.png",
+        "position":{"x":0,"y":0,"w":2000,"h":2000}
+    },
+    {
+        "name":  "broken-ship-011.png",
+        "position":{"x":0,"y":0,"w":2000,"h":2000}
+    },
+    {
+        "name":  "broken-ship-012.png",
+        "position":{"x":0,"y":0,"w":2000,"h":2000}
+    },
+    {
+        "name": "broken-ship-013.png",
+        "position":{"x":0,"y":0,"w":2000,"h":2000}
+    },
+    {
+        "name": "broken-ship-014.png",
+        "position":{"x":0,"y":0,"w":2000,"h":2000}
+    },
+    {
+        "name": "broken-ship-015.png",
+        "position":{"x":0,"y":0,"w":2000,"h":2000}
+    },
+    {
+        "name": "broken-ship-016.png",
+        "position":{"x":0,"y":0,"w":2000,"h":2000}
+    },
+    {
+        "name": "broken-ship-017.png",
+        "position":{"x":0,"y":0,"w":2000,"h":2000}
+    }
+]
+} 
